@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//x3 Internet Solutions//x3 vCards v1.0//EN
+N:Cramb;Gregory;;;
+FN:Gregory Cramb
+NICKNAME:Greg
+GENDER:M
+TITLE:Technical Support Engineer
+ORG:Excool Ltd;Software & Technical Team
+item1.URL;type=INTERNET;type=WORK:https://www.excool.com
+item1.X-ABLabel:website
+EMAIL;type=INTERNET;type=WORK;type=pref:gregory.cramb@excool.com
+TEL;type=CELL;type=VOICE;type=pref:07932374466
+item2.ADR;type=WORK;type=pref:;Cooper House\, Corbett business park\, Shaw Ln\, Stoke Prior;;Bromsgrove;Worcestershire;B60 4EA;United Kingdom
+item2.X-ABADR:gb
+REV:20220401T005138Z
+UID:E841C379-C3A5-2F65-8FDD-68D1C7BFA867
+X-ABUID:E841C379-C3A5-2F65-8FDD-68D1C7BFA867:ABPerson
+END:VCARD

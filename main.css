@@ -64,7 +64,7 @@ img.profile-pic {
 	margin: 0;
 	padding: 0.25rem;
 	max-width: 100%;
-	max-height: 100%;
+	max-height: auto;
 	overflow: auto;
 }
 
@@ -135,31 +135,31 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background-color: #b6121a71;
 }
 
 .bg-color-white {
-	background-color: white;
+	background-color: #718fe871;
 }
 
 .text-name {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Verdana', sans-serif;
     font-weight: 400;
-    color: #333333;
+    color: #010100;
     font-size: 20px;
 }
 
 .text-title-company {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Verdana', sans-serif;
     font-weight: 200;
     color: #333333;
     font-size: 12px;
 }
 
 .text-detail {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Verdana', sans-serif;
     font-weight: 300;
-    color: #575757;
+    color: #464242;
     font-size: 12px;
 }
 
@@ -168,9 +168,9 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #219653;
+	background-color: #0267f4;
 	height: 48px;
-	padding-left: 24px
+	padding-left: 24px;
 	padding-right: 24px;
 	text-align: center;
 	vertical-align: middle;
